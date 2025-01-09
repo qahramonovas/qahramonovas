@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/4bb5fd0de189c0ccd5fd6.jpg" alt="my banner">
+  <img src="#">
 </p>
 
 <h3 align="center">
